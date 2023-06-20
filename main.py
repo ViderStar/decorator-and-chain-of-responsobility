@@ -1,5 +1,5 @@
 from handler import RequestHandler, RequestLogger, RequestAuthorizer
-import tests
+from tests import *
 
 if __name__ == "__main__":
     handler = RequestHandler()
@@ -15,4 +15,4 @@ if __name__ == "__main__":
     print(response)
 
     # Запустите тесты
-    tests.unittest.main(argv=[""], exit=False)
+    unittest.main()
