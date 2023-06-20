@@ -14,5 +14,5 @@ if __name__ == "__main__":
     response = authorizer_decorator.handle_request(request)
     print(response)
 
-    # Запустите тесты
+    # start unit tests
     unittest.main()
