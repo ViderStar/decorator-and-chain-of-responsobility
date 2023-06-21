@@ -1,4 +1,4 @@
-## Linking Declarer and Chain of Responsibilities Patterns 
+## Linking Decorator and Chain of Responsibilities Patterns 
 
 This code demonstrates how the pattern "Decorator" and the pattern "Chain of Responsibilities" work, and shows how these patterns can be used together to handle requests.
 
